@@ -8,11 +8,11 @@ I can provide movies and series for you just send me movie name or make me admin
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/+LJqttzf0j5xiYWJk ᴛɢ</a>
-✯ Cᴏᴅᴇᴅ Oɴ: PYTHON/PYROGRAM
-✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: UNAVAILABLE 🌚😂
-✯ Mʏ Sᴇʀᴠᴇʀ: ANYWHERE
-✯ Mʏ Vᴇʀꜱɪᴏɴ: Flixhoodbot  v4.5.0</b>"""
+✯ Developer: <a anonymous ᴛɢ</a>
+✯ Coded on:Python/Pyrogram
+✯ My database: N/A 🌚
+✯ My server: Anywhere 
+✯ My version: Flixhoodbot  v4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
