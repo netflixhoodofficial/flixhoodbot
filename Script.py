@@ -11,7 +11,7 @@ I can provide movies and series for you just send me movie name or make me admin
 ✯ Developer: <a anonymous ᴛɢ</a>
 ✯ Coded on:Python/Pyrogram
 ✯ My database: N/A 🌚
-✯ My server: Anywhere 
+✯ My server: N/A 
 ✯ My version: Flixhoodbot  v4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
@@ -218,7 +218,7 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
 
 Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
-Share and support, request you wantes movies"""
+Share and support, request you wanted movies"""
   
     IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
 
